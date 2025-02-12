@@ -1,6 +1,6 @@
 void main() {
   Map<String, dynamic>  mapaCliente= {};
-
+  print("Angel Valencia 22308051280738 gpo 6 J");
   mapaCliente['id'] = '0128';
   mapaCliente['nombre'] = 'Juan';
   mapaCliente['edad'] = 25;
@@ -21,7 +21,7 @@ void main() {
   }
 
   Map<String, dynamic>  mapaProducto= {};
-
+  print("Angel Valencia 22308051280738 gpo 6 J");
   mapaProducto['id'] = '0128';
   mapaProducto['nombre'] = 'blue label';
   mapaProducto['tipo'] = "whisky";
